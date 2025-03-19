@@ -9,11 +9,10 @@ Read more about creating a library [in the docs](https://svelte.dev/docs/kit/pac
 If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
-# create a new project in the current directory
-npx sv create
 
-# create a new project in my-app
-npx sv create my-app
+# create a new project in the current directory
+https://github.com/ahmadsyaefulfakhruddin/template-sveltekit-prisma-shadcn.git
+
 ```
 
 ## Developing
