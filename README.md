@@ -10,14 +10,25 @@ If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
 
-# create a new project in the current directory
+# clone my repository
 git clone https://github.com/ahmadsyaefulfakhruddin/template-sveltekit-prisma-shadcn.git
+
+# Enter to the repository
+cd template-sveltekit-prisma-shadcn
 
 ```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+```bash
+
+# Install package
+npm i
+
+# Init the shadcn
+npx shadcn-svelte@next init
+
+```
 
 ```bash
 npm run dev
